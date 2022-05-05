@@ -1,1 +1,3 @@
-DEPLOYED NFT Collection Address = 0x8aCA923c2df848D11738156bD6fD091B9736CE00
+DEPLOYED NFT Collection Address = 0x06e6A22B29278a3FDD030B083FB4E42ce1D71e8E
+
+Vercel domain: https://nft-collection-page.vercel.app/
